@@ -1,0 +1,146 @@
+body{
+
+    font-family: 
+    "futura-pt,Avenir","-apple-system","BlinkMacSystemFont",
+    "Segoe UI","Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+.main_nav_ul{
+align-items: center;
+align-content: center;
+display: inline-block;
+text-align: center;
+margin-left: 0px;
+text-decoration: none;
+
+
+}
+a,li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.main_nav_ul_left{
+
+    float: right;
+    margin-left: 0px;
+    margin-right:20px;
+    /* background-color: blueviolet; */
+
+}
+/* .banner_{
+
+    background: linear-gradient(70deg, rgba(34,193,195,1) 10%, rgb(218, 253, 45) 70%);
+
+} */
+
+.product-teaser-left{
+
+    background: rgb(255, 255, 72);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://ableton-production.imgix.net/shop/live--square.jpg?auto=format&fit=crop&fm=jpg&h=800&ixjsv=1.1.3&w=800");
+    background-position: 50% 50%;
+    height: 800px;
+    width: 800px;
+    vertical-align: top;
+    box-sizing: border-box;
+    display:inline-block;
+}
+.product-teaser-main{
+
+    display: inline-block;
+
+}
+.product-teaser-right{
+
+    background: rgb(255, 255, 72);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://ableton-production.imgix.net/shop/push--square.jpg?auto=format&fit=crop&fm=jpg&h=800&ixjsv=1.1.3&w=800");
+    background-position: 50% 50%;
+    height: 800px;
+    width: 800px;
+    vertical-align: top;
+    display: inline-block;
+    box-sizing: border-box;
+    
+}
+
+
+.main_navbar{
+    border: 0.5px solid gray;
+    background-color: rgb(241, 248, 248);
+    text-decoration: none;
+
+}
+
+.main_nav_strecher{
+margin: 2px;
+
+
+}
+
+/* A tags and btns */
+
+.buy{
+border: .125rem solid rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+background: blue;
+font-size: 1.25rem;
+display: inline-block;
+font-family: inherit;
+font-weight: bold;
+padding: .40625rem 1.875rem;
+padding-top: 0.40625rem;
+
+
+}
+
+
+.knowmore{
+border:.125rem rgb(40, 78, 247) solid;
+color: rgb(65, 89, 245);
+display: inline-block;
+font-size: 1.25rem;
+font-family: inherit;
+font-weight: bold;
+padding: .40625rem 1.875rem;
+padding-top: 0.40625rem;
+
+
+
+}
+
+.main_nav_seperator{
+
+
+
+}
+
+.sec_nav_links,.sec_nav{
+
+    align-items: center;
+    align-content: center;
+    display: inline-block;
+    justify-content: space-between;
+    margin:5px;
+    
+    
+
+}
+.sec_nav_div{
+
+    border: 1px solid;
+
+}
+.page{
+
+    
+    border:solid 1px;
+
+
+}
+
+
+
